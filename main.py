@@ -12,7 +12,7 @@ this.code = "https://github.com/natrixdev/instagram-botter/blob/main/main.py"
 from instabot import likes, views, followers
 
 os.system("title Instagram followers, likes and views botter.")
-os.color("a")
+os.color("b")
 
 def __main__:
  account_name=input("Account name ? ")
